@@ -1,6 +1,6 @@
 {
   "name": "Workshops",
   "description": "Workshops of Siraphop Nonpala",
-  "banner": "./assets/images/banner.png",
+  "banner": "./banner.png",
   "hide": false
 }
